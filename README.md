@@ -1,0 +1,7 @@
+- hi im @why-does
+- im interested in team fortress 2
+- im currently learning on how to make a successful discord bot
+- im NOT looking to collaborate
+- reach me out on discord (@podemb)
+- pronouns: podemb
+- fun fact: flop xclusiv was the biggest discord bot ive ever coded, on one of the commands having, most likely, over 100 lines of code including subcommands
