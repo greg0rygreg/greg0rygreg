@@ -4,4 +4,4 @@
 - im NOT looking to collaborate
 - reach me out on discord (@podemb)
 - pronouns: podemb
-- fun fact: flop xclusiv was the biggest discord bot ive ever coded, on one of the commands having, most likely, over 100 lines of code including subcommands
+- fun fact: tf2ldm5000's `main.py` file has had its code being reduced by 45%, and it still works
