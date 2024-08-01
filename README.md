@@ -1,7 +1,7 @@
-- hi im @why-does
-- im interested in team fortress 2
+- hi im @greginsomtimrem
+- im interested in people playground
 - im currently learning on how to make a successful discord bot
 - im NOT looking to collaborate
-- reach me out on discord (@podemb)
-- pronouns: podemb
-- fun fact: tf2ldm5000's `main.py` file has had its code being reduced by 45%, and it still works
+- reach me out on discord (@gregtf2)
+- pronouns: greg
+- fun fact: The fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog
