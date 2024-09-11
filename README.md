@@ -2,6 +2,6 @@
 - im interested in people playground
 - im currently learning on how to make a successful discord bot
 - im NOT looking to collaborate
-- reach me out on discord (@gregtf2)
+- reach me out on discord (@.gre.g.)
 - pronouns: greg
 - fun fact: The fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog
