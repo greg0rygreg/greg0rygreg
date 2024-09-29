@@ -1,7 +1,6 @@
-- hi i'm @greginsomtimrem
-- i'm interested in golang
-- i'm currently learning on how to make a successful discord bot/application
-- i'm NOT looking to collaborate; i'm looking for people that can collab with me
-- reach me out on discord (@.gre.g.)
-- pronouns: greg
-- fun fact: The fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog is comingthe fog
+# greg0rygreg
+[blindpaint](https://github.com/greg0rygreg/blindpaint) dev
+
+a very very dumb creature from the species "Gregorisis Grefosis"
+
+some of my friends call me gregory
