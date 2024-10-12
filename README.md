@@ -1,5 +1,5 @@
 # greg0rygreg
-[blindpaint](https://github.com/greg0rygreg/blindpaint) dev
+[blindpaint](https://github.com/greg0rygreg/blindpaint)/[DRAWscii](https://github.com/greg0rygreg/drawscii)  dev
 
 a very very dumb creature from the species "Gregorisis Grefosis"
 
