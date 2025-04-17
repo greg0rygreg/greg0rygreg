@@ -1,5 +1,7 @@
 # greg0rygreg
-[blindpaint](https://github.com/greg0rygreg/blindpaint)/[DRAWscii](https://github.com/greg0rygreg/drawscii)  dev
+intermediate python/newbie C dev
+
+# my projects' updates are fueled by YOUR suggestions
 
 a very very dumb creature from the species "Gregorisis Grefosis"
 
