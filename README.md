@@ -1,7 +1,7 @@
 # greg0rygreg
 intermediate python/newbie C dev
 
-a very very dumb creature from the species "Gregorisis Grefosis"
+i'll collab w/ you if i have time
 
 some of my friends call me gregory
 
