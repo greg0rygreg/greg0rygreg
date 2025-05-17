@@ -1,7 +1,7 @@
 # greg0rygreg
 intermediate python/newbie C dev
 
-i'll collab w/ you if i have time
+# i like encoding
 
 some of my friends call me gregory
 
