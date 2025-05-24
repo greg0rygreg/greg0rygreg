@@ -1,5 +1,5 @@
 # greg0rygreg
-intermediate python/newbie C dev
+not-so-newbie C dev
 
 # i like encoding
 
