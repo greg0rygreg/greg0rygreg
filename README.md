@@ -1,5 +1,5 @@
-# greg0rygreg
-not-so-newbie C dev
+# paracetamol
+i'm some dude
 
 # i like encoding
 
