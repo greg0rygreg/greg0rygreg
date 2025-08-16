@@ -1,10 +1,14 @@
 # greg
-i'm some dude
+I'm some dude
 
-# i like encoding
+# I like coding in C
 
 some of my friends call me gregory
 
 # my projects' updates are fueled by YOUR suggestions
 
-i inherit Terry A. Davis
+I inherit Terry A. Davis
+
+# butter? I hardly know her!
+
+I also like TF2
