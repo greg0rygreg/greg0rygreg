@@ -1,9 +1,9 @@
-# greg
+# Theodore
 I'm some dude
 
 # I like coding in C
 
-some of my friends call me gregory
+some of my friends call me The Noise
 
 # my projects' updates are fueled by YOUR suggestions
 
