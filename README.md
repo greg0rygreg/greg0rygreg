@@ -1,14 +1,14 @@
-# Theodore
-I'm some dude
+# Greg
+i'm some dude
 
-# I like coding in C
+# i like coding in C
 
-some of my friends call me The Noise
+some of my friends call me Gregory
 
 # my projects' updates are fueled by YOUR suggestions
 
-I inherit Terry A. Davis
+i inherit Terry A. Davis
 
 # butter? I hardly know her!
 
-I also like TF2
+i also like TF2
