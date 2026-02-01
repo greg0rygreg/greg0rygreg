@@ -1,7 +1,7 @@
 # Greg
 i'm some dude
 
-# i like coding in C
+# i like coding in *C*
 
 some of my friends call me Gregory
 
