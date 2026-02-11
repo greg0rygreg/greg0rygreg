@@ -1,19 +1,19 @@
 # Greg
 i'm some dude
 
-# i like coding in *C*
+## i like coding in *C*
 
 some of my friends call me Gregory
 
-# my projects' updates are fueled by YOUR suggestions
+## my projects' updates are fueled by YOUR suggestions
 
 i inherit Terry A. Davis
 
-# butter? I hardly know her!
+## butter? I hardly know her!
 
 i also like TF2
 
-# honestamente um bocado incrível
+## honestamente um bocado incrível
 
 contacts:
 
