@@ -17,3 +17,5 @@ discord:
 - [https://discord.gg/AxAK2mZaHG](https://discord.gg/AxAK2mZaHG)
 - [https://discord.gg/c2KTVEgxBn](https://discord.gg/c2KTVEgxBn)
 - username: `greg0rygreg`
+
+youtube: [https://www.youtube.com/@g_greg](https://www.youtube.com/@g_greg)
